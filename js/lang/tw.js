@@ -1,0 +1,50 @@
+const i18nLangs = {
+    title1: "歡迎",
+    intro1: "選擇您的語言",
+    title2: "簡單易用",
+    intro2: "在 DOM 元件上設定 dataset, data-i18n=\"title\", 單純替換內容",
+    intro3: "這個一頁式設計是由 https://www.facebook.com/templatemo TemplateMo 提供~(與該 JS Project 無關 XD)",
+
+    image01: "img/image-01-tw.jpg",
+
+    chief_name: "",
+    chief_intro: "這個頁面設計是由 http://www.templatemo.com/tm-514-magazee 下載提供~(與該 JS Project 無關 XD)",
+
+    text_title: "這裡以下的文字都不重要 - 出師表",
+    text1: "\"臣亮言：先帝創業未半，而中道崩殂。今天下三分，益州疲弊，此誠危急存亡之秋也。\"",
+    text2: "\"然侍衛之臣，不懈於內；忠志之士，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。誠宜開張聖聽，以光先帝遺德，恢弘志士之氣；不宜妄自菲薄，引喻失義，以塞忠諫之路也。\"",
+
+    standard_plan: "一般方案",
+    standard_price: "(每月 0 元)",
+    sp_li1: "侍中、侍郎郭攸之、",
+    sp_li2: "費褘、董允等，",
+    sp_li3: "此皆良實，志慮忠純，",
+    sp_li4: "是以先帝簡拔以遺陛下。",
+    sp_li5: "愚以為宮中之事，",
+    sp_li6: "事無大小，悉以咨之，",
+
+    advanced_plan: "進階方案",
+    advanced_price: "(每月 0 元)",
+    ap_li1: "然後施行，必能裨補闕漏，",
+    ap_li2: "有所廣益。",
+    ap_li3: "將軍向寵，性行淑均，",
+    ap_li4: "曉暢軍事，試用於昔日，",
+    ap_li5: "先帝稱之曰「能」，",
+    ap_li6: "愚以為營中之事，",
+
+    buy_now: "立即購買",
+    read_more: "看更多",
+
+    application_form: "表單",
+    form_male: "男性",
+    form_female: "女性",
+    form_full_name: "完整名稱",
+    form_email: "Email",
+    form_message: "有話告訴我們",
+    form_position: "職稱",
+    form_ceo: "執行長",
+    form_ms: "行銷專員",
+    form_sa: "業務助理",
+    form_salary: "薪資區間",
+    form_submit: "送出",
+}

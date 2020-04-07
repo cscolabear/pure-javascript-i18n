@@ -2,6 +2,9 @@
 
 Demo: https://cscolabear.github.io/pure-javascript-i18n/
 
+![screencapture-cscolabear-github-io-pure-javascript-i18n-2020-04-07-17_08_42](https://user-images.githubusercontent.com/4863629/78651532-084ef600-78f3-11ea-872f-0f319c40402a.png)
+
+
 - 使用 HTMLElement.dataset 設定多國語言標籤
 
 e.g.
